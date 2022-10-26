@@ -6,3 +6,7 @@ First, you need to install the corresponding environment according to the instru
 <img src="https://github.com/pzyqwe/Fast-face-and-car-license-plate-recognition/blob/main/carface/output/1.jpg" width="950px">
 <img src="https://github.com/pzyqwe/Fast-face-and-car-license-plate-recognition/blob/main/carface/output/face.png" width="950px">
 <img src="https://github.com/pzyqwe/Fast-face-and-car-license-plate-recognition/blob/main/carface/output/car.png" width="950px">
+
+|   Backbone   | Speed V100 b32(ms) | TensorRT_FP16(ms) |
+| :----------: | :---------:        | :---------------: |
+|  yolov5s     |       0.9          |       0.32        |
