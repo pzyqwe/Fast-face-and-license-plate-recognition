@@ -18,3 +18,4 @@ Of course, you can also put your image under the images path and run speedup.py 
 cd carface
 python speedup.py
 ```
+<img src="https://github.com/pzyqwe/Fast-face-and-car-license-plate-recognition/blob/main/carface/output/car1.png" width="950px">
