@@ -19,3 +19,4 @@ cd carface
 python speedup.py
 ```
 <img src="https://github.com/pzyqwe/Fast-face-and-car-license-plate-recognition/blob/main/carface/output/car1.png" width="950px">
+<img src="https://github.com/pzyqwe/Fast-face-and-car-license-plate-recognition/blob/main/carface/output/car2.png" width="950px">
