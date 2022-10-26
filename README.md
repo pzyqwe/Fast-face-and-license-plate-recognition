@@ -12,3 +12,9 @@ First, you need to install the corresponding environment according to the instru
 |  carface     |       0.9          |       0.32        |
 
 
+Of course, you can also put your image under the images path and run speedup.py to get the end-to-end license plate recognition result.
+
+```shell
+cd carface
+python speedup.py
+```
