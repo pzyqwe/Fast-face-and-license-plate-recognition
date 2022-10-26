@@ -4,5 +4,5 @@ This project is based on YOLOv5 for license plate and face recognition, a large 
 First, you need to install the corresponding environment according to the instructions in env.txt, and then run detect.py to get the visual recognition result.
 
 <img src="https://github.com/pzyqwe/Fast-face-and-car-license-plate-recognition/blob/main/carface/output/1.jpg" width="950px">
-<img src="https://github.com/pzyqwe/Fast-face-and-car-license-plate-recognition/blob/main/carface/output/face.jpg" width="950px">
-<img src="https://github.com/pzyqwe/Fast-face-and-car-license-plate-recognition/blob/main/carface/output/car.jpg" width="950px">
+<img src="https://github.com/pzyqwe/Fast-face-and-car-license-plate-recognition/blob/main/carface/output/face.png" width="950px">
+<img src="https://github.com/pzyqwe/Fast-face-and-car-license-plate-recognition/blob/main/carface/output/car.png" width="950px">
